@@ -3,8 +3,8 @@
 </script>
 
 <main>
-  <h1>Svelte Template</h1>
-  <p>Simple starter project 🚀</p>
+  <h1>Svelte Sample Project</h1>
+  <p>By Kevin Philips Tanamas</p>
 
   <button on:click={() => count++}>
     Clicked {count} times
